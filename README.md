@@ -12,9 +12,8 @@ Note: modules needed for program to run
 To run your own conversion, you must include file in the code ***insert file here***. The **Video** will need to be change its FPS according to its original video properties as listed in video configuration. Final product filename can be change if needed. 
 
 Original Picture (Source: from PicoCTF task to resolve): 
-<img src = "" align="center">
+<img src = "https://github.com/RayleighThai/ASCII-Conversion/blob/main/garden.jpg" align="center">
 
 Result:
-<img src = "" align="center">
+<img src = "https://github.com/RayleighThai/ASCII-Conversion/blob/main/product.jpg" align="center">
 
-You can check my final video product here at: ***Insert link here***
